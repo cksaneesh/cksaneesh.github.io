@@ -9,14 +9,14 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Saneesh Chali Kachimpurath
-description: "Hi I'm Saneesh, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages by using the links below!"
+description: "Hi I'm Saneesh, and I'm a Lead Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
-location: "Phoenix, AZ"
+location: "Bangalore, India"
 #resume_url: /docs/Saneesh_Resume_2022.pdf
 #avatar_image: /img/Saneesh_DS_2023.jpg
 
